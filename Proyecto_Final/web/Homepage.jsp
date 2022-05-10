@@ -19,7 +19,6 @@
             <div id="promo">
                 <img src="imagenes/promo.jpg" id="imgPromo"/>
             </div>
-            
         </div>
     </body>
 </html>
