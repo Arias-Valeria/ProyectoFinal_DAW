@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cuadro{
+    width: 330px;
+    background: #090909;
+    color: #ffffff;
+    margin: auto;
+    margin-top: 120px;
+    padding: 5px 5px 30px 5px;
+    border-top: 20px solid #141414;
+    border-right: 20px solid #141414;
+    border-left: 20px solid #141414;
+    border-bottom: 20px solid #141414;
+    border-radius: 10px;
+}
+
+.entrada{
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    font-family: verdana;
+    font-weight: 600;
+}
+
+#boton{
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: red;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#titulo{
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+#nom_usuario{
+    font-size: 20px;
+}
+
+#cont{
+    font-size: 20px;
+}

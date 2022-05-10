@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#menu{
+    width: 1221px;
+    background: #090909;
+    color: #ffffff;
+    margin: auto;
+    border-top: 10px solid #141414;
+    border-right: 10px solid #141414;
+    border-left: 10px solid #141414;
+    border-bottom: 10px solid #141414;
+    
+}
+
+#boton1{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: red;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#boton2{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: red;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#boton3{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: red;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#cuenta{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: white;
+    color: #ffffff;
+    font-size: 20px;
+    color: black;
+    margin-left: 405px;
+}
+
+#imgPromo{
+    width: 1242px;
+    height: 400px;
+}
